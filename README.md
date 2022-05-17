@@ -27,11 +27,7 @@ The whole project include the following steps
 
 - Comment Score Distribution:
   
-  
-  
-  ![image-20220517001721652](C:\Users\LiGoudan\AppData\Roaming\Typora\typora-user-images\image-20220517001721652.png)
-
-  
+  ![image](https://user-images.githubusercontent.com/72702872/168739738-1337975e-cb46-4ba1-b15e-a548988f57e3.png)
 
 </details>   
 
@@ -45,12 +41,13 @@ The whole project include the following steps
 
 <details open>
 <summary>Result</summary>
+  
 <details open>
 <summary>Data Balancing</summary>
 
 - After applying Down-Sampling(random sampling) and Up-Sampling(Back Translation), score distribution is as follow:
 
-  
+  ![image](https://user-images.githubusercontent.com/72702872/168740529-9b2e9c94-c610-4ca3-bedf-70ea5e5ddca5.png)
 
 </details>
 
@@ -60,11 +57,13 @@ The whole project include the following steps
 
 - Final topic modeling result:
   
-  
+  ![image](https://user-images.githubusercontent.com/72702872/168740661-a9303b69-f84d-45c6-bfbe-8efdd47993ae.png)
 
 - Final prediction model result:
   
-  
+  ![image](https://user-images.githubusercontent.com/72702872/168740715-c47bb1c4-211d-47b2-bd7e-75dbbc6fc78b.png)
+
+  ANN can do better on high dimension token Uni+Bi Gram TF-IDF , but will overfit on simple word bag or Uni Gram TF-IDF.
 
 </details>
 
