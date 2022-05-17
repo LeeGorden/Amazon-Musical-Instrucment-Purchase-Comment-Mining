@@ -51,7 +51,6 @@ The whole project include the following steps
 
 </details>
 
-
 <details open>
 <summary>Model Performance</summary>
 
@@ -66,23 +65,6 @@ The whole project include the following steps
   ANN can do better on high dimension token Uni+Bi Gram TF-IDF , but will overfit on simple word bag or Uni Gram TF-IDF.
 
 </details>
-
-</details>
-
-<details open>
-<summary>Reference</summary>
-
-[1] World Meteorological Organization (WMO). 2009. Weather and Climate Change 
-Implications for Surface Transportation in the USA. Available at https://public.wmo.int/ 
-as of 2009.
-
-[2] United States Department of Transportation. 2020. Transportation Statistics Annual 
-Report 2020 Available at https://fdd.bts.gov/freight-data-dictionary/ as of 2020
-
-[3] U.S. Energy information Administration. 2020. Available at https://www.eia.gov/ as of 
-2020
-
-[4] Quora Answer Board. 2020 Available at https://www.quora.com/How-many-milescan-the-average-semi-truck-pull-a-full-load-without-refueling as of 201
 
 </details>
 
